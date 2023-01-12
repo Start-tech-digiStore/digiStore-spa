@@ -1,7 +1,7 @@
 <template>
-  <HelloWorld />
+  <Cabecalho />
 </template>
 
 <script setup>
-  import HelloWorld from '@/components/HelloWorld.vue'
+  import Cabecalho from '@/components/Cabecalho.vue'
 </script>
