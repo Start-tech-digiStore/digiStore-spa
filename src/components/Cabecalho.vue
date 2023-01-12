@@ -6,7 +6,7 @@
         color="black"
 
       >
-        <img src="../../public/logo-favicon2.png" style="max-width: 80px; color: ;">  
+        <img src="../../public/logo-favicon2.png" style="max-width: 80px;">  
         <v-toolbar-title>DigiStore</v-toolbar-title>
 
         <v-spacer></v-spacer>
