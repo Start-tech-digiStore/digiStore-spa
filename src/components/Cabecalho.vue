@@ -1,6 +1,10 @@
+<script>
+//
+</script>
+
 <template>
   <div class="cabecalho">
-    <v-toolbar dark prominent color="black">
+    <v-toolbar dark prominent color="black" >
       <img src="../../public/logo-favicon2.png" style="max-width: 80px;">
       <v-toolbar-title>DigiStore</v-toolbar-title>
 
